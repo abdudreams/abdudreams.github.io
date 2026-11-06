@@ -1,0 +1,9 @@
+window.FB={
+  ownerEmail:"abdelkarim090488@gmail.com",
+  firebase:{
+    apiKey:"AIzaSyBZOLqRGrjrnIceMPV7xtJ6SJYw9PeMRDA",
+    authDomain:"abdu-dreams.firebaseapp.com",
+    projectId:"abdu-dreams",
+    appId:"1:512411311676:web:9b9d006c64a0587b77ad39"
+  }
+};
